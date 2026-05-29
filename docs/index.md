@@ -4,7 +4,7 @@ PCZone es una tienda online desarrollada con PHP,MySQL,JavaScript y CSS.
 
 # 💻 PCZONE
 
-**[Inicio](index.md) | [Estructura](estructura.md) | [Funcionalidades](funcionalidades.md) | [Base de Datos](base-datos.md) | [JavaScript](javascript.md) | [CSS](css.md) | [Instalación](instalacion.md)**
+[Inicio](index.md) | [Estructura](estructura.md) | [Funcionalidades](funcionalidades.md) | [Base de Datos](base-datos.md) | [JavaScript](javascript.md) | [CSS](css.md) | [Instalación](instalacion.md)
 
 ## Tecnologías usadas
 - PHP
