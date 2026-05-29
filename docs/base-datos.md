@@ -1,6 +1,6 @@
 # Base de datos
 
-![Base Datos](img/bd.png)
+![Base Datos](../img/bd.png)
 
 ## Tabla productos
 - id
