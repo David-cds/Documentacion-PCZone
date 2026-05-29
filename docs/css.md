@@ -1,6 +1,4 @@
-# css.md
 
-```md
 # Diseño CSS
 
 ## Mobile First
