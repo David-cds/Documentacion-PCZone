@@ -1,5 +1,7 @@
 # Base de datos
 
+![Base Dstos](img/bd)
+
 ## Tabla productos
 - id
 - nombre
