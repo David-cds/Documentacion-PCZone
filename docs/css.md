@@ -23,7 +23,7 @@ La web se adapta correctamente a:
 
 El header permanece fijo durante el scroll.
 
-```css
+
 position: sticky;
 top: 0;
 
