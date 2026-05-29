@@ -1,15 +1,47 @@
-# Base de datos
+# Base de Datos
 
-![Base Datos](../img/bd.png)
+## Nombre de la base de datos
 
-## Tabla productos
+pczone
+
+---
+
+# Tabla usuarios
+
+## Campos
+
+- id
+- usuario
+- correo
+- password
+- rol
+
+---
+
+# Tabla productos
+
+## Campos
+
 - id
 - nombre
 - descripcion
 - precio
 - stock
+- imagen
+- categoria_id
 
-## Tabla usuarios
+---
+
+# Tabla categorias
+
+## Campos
+
 - id
-- usuario
-- password
+- nombre
+
+---
+
+# Relaciones
+
+La tabla productos está relacionada con categorias mediante categoria_id.
+
