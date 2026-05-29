@@ -47,5 +47,5 @@ La tabla productos está relacionada con categorias mediante categoria_id.
 
 
 ### Captura
-![Base de datos](../img/bd.png)
+![Base de datos](img/bd.png)
 
