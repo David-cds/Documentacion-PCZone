@@ -34,16 +34,16 @@ PCZone es una tienda online desarrollada con PHP,MySQL,JavaScript y CSS.
 ## Capturas de pantalla
 
 ## Página principal
-![Inicio](img/inicio.png)
+![Inicio](../img/inicio.png)
 
 ### Panel administrador
 
-![Admin](img/admin.png)
+![Admin](../img/admin.png)
 
 ### Carrito
 
-![Carrito](img/carrito.png)
+![Carrito](../img/carrito.png)
 
 ### Responsive móvil
 
-![Responsive](img/responsive.png)
+![Responsive](../img/responsive.png)
