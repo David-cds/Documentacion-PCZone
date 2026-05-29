@@ -1,20 +1,44 @@
-# PCZone
+# PCZONE
 
-Proyecto DAW - Tienda online de productos informáticos.
+PCZone es una tienda online desarrollada con PHP,MySQL,JavaScript y CSS.
 
 ## Tecnologías usadas
 - PHP
 - MySQL
 - JavaScript
 - CSS
-- HTML
-
-## Funcionalidades
-- Login y registro
-- Carrito
-- Panel administrador
-- CRUD productos
-- Filtros y búsqueda
+- HTML5
 - AJAX
-- DOM
-- Responsive
+- JQuery
+
+## Funcionalidades principales
+-Registro de usuarios
+-Inicio de sesión
+-Carrito de compra
+-CRUD de productos
+-Panel administrador
+-Filtros de productos
+-Buscador dinámico
+-Slider de imagenes
+-Gestión de stock
+-Diseño responsive
+-Validaciones JavaScript
+-Manipulaciones DOM
+-AJAX
+
+## Capturas de pantalla
+
+## Página principal
+![Inicio](img/inicio.png)
+
+### Panel administrador
+
+![Admin](img/admin.png)
+
+### Carrito
+
+![Carrito](img/carrito.png)
+
+### Responsive móvil
+
+![Responsive](img/responsive.png)
