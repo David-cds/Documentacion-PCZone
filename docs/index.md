@@ -15,6 +15,7 @@ PCZone es una tienda online desarrollada con PHP,MySQL,JavaScript y CSS.
 - AJAX
 - JQuery
 
+
 ## Funcionalidades principales
 -Registro de usuarios
 -Inicio de sesión
